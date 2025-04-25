@@ -82,7 +82,7 @@ _note: following instructions tested with nodejs v20.10.0 and python 3.11.6_
 #### 1. Download or clone this repo
 
 ```
-git clone https://github.com/aws-solutions/data-transfer-from-amazon-s3-glacier-vaults-to-amazon-s3
+git clone https://github.com/aws-solutions-library-samples/data-transfer-from-amazon-s3-glacier-vaults-to-amazon-s3.git
 ```
 
 #### 2. Create and start virtual environment
